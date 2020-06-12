@@ -1,0 +1,58 @@
+@font-face {
+    font-family: OldStandard-Regular;
+    src: url("../fonts/OldStandard-Regular.ttf");
+}
+
+@font-face {
+    font-family: FoglihtenNo01;
+    src: url("../fonts/FoglihtenNo01.ttf");
+}
+
+body {
+    background-color: #F8F2DA;
+    margin: 0 0 0 0;
+    font-family: OldStandard-Regular;
+    font-size: 18px;
+}
+
+header {
+    font-size: 48px;
+    padding: 10px 10px 0 10px;
+    overflow: hidden;
+    font-family: FoglihtenNo01;
+}
+
+header .titile {
+    float: left;
+    overflow: hidden;
+}
+
+header .right-side {
+    float: right;
+}
+
+hr {
+    margin: 5px 4px 20px 4px;
+    border: 1px solid #C7A575;
+}
+
+.stats {
+    margin: 5px 10px 5px 10px;
+    display: inline-block;
+}
+
+.result {
+    border-style: solid;
+    width: 350px;
+    padding: 20px 50px 20px 50px;
+    margin: 5px 10px 5px 10px;
+    display: inline-block;
+    vertical-align: top;
+}
+
+.calc {
+    border-style: solid;
+    width: 400px;
+    padding: 200px 200px 200px 200px;
+    margin: 5px 10px 5px 10px;
+}

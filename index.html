@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+
+<html>
+    <head>
+        <title>Morrowind enchantment calculator</title>
+        <meta charset="utf-8">
+        <link rel="stylesheet" href="css/styles.css">
+        <script src="js/lang.js"></script>
+        <script src="lang/lang.en.js"></script>
+        <script src="lang/lang.ru.js"></script>
+    </head>
+    <body>
+        <header>
+            <div class="titile">Morrowind enchantment calculator</div>
+            <div class="right-side">
+                <select id="language-picker-select" onchange="setLanguage(value)">
+                    <option value="en">EN</option>
+                    <option value="ru">RU</option>
+                </select>
+            </div>
+        </header>
+        <hr>
+        <div class="stats">
+            <table>
+                <tr>
+                    <td><div id="intelligence"></div></td>
+                    <td><input type="text" id=intelligence-stat></td>
+                </tr>
+                <tr>
+                    <td><div id="skill"></div></td>
+                    <td><input type="text" id=skill-stat></td>
+                </tr>
+                <tr>
+                    <td><div id="luck"></div></td>
+                    <td><input type="text" id=luck-stat></td>
+                </tr>
+            </table>
+        </div>
+        <div class="result">Здесь будет результ зачарования:<br>Стоимость, шанс и т.д.</div>
+        <div class="calc">Здесь будет выбор предмета, души, эффектов</div>
+    </body>
+</html>
