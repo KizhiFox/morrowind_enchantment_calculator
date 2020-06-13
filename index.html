@@ -5,6 +5,9 @@
         <title>Morrowind enchantment calculator</title>
         <meta charset="utf-8">
         <link rel="stylesheet" href="css/styles.css">
+        <script src="js/controls.js"></script>
+        <script src="configs/items.js"></script>
+        <script src="configs/souls.js"></script>
         <script src="js/lang.js"></script>
         <script src="lang/lang.en.js"></script>
         <script src="lang/lang.ru.js"></script>
@@ -36,7 +39,29 @@
                 </tr>
             </table>
         </div>
-        <div class="result">Здесь будет результ зачарования:<br>Стоимость, шанс и т.д.</div>
-        <div class="calc">Здесь будет выбор предмета, души, эффектов</div>
+        <div class="result">
+            <div><span id="chance"></span>:&nbsp&nbsp;<span id="chance-value"></span>-</div>
+            <div><span id="item-volume"></span>:&nbsp;&nbsp;<span id="item-volume-value">0/-</span></div>
+            <div><span id="charge"></span>:&nbsp;&nbsp;<span id="charge-value">-</span></div>
+            <div><span id="cast-cost"></span>:&nbsp;&nbsp;<span id="cast-cost-value">0</span></div>
+            <div><span id="buy-enchant"></span>:&nbsp;&nbsp;<span id="buy-enchant-value">-</span></div>
+        </div>
+        <div class="calc">
+            <button id="enchantment-type" value="once" onclick="changeType(this)"></button><br>
+            <div id="item" class="inline-selector"></div>
+            <div id="soul" class="inline-selector"></div>
+            <table>
+                <tr>
+                    <td>
+                        <div id="spells"></div>
+                        <div id="spells-list"><div>эффект</div><div>эффект</div><div>эффект</div></div>
+                    </td>
+                    <td>
+                        <div id="effects"></div>
+                        <div id="effects-list"><div>эффект</div><div>эффект</div><div>эффект</div></div>
+                    </td>
+                </tr>
+            </table>
+        </div>
     </body>
 </html>

@@ -12,7 +12,7 @@ body {
     background-color: #F8F2DA;
     margin: 0 0 0 0;
     font-family: OldStandard-Regular;
-    font-size: 18px;
+    font-size: 16px;
 }
 
 header {
@@ -42,9 +42,6 @@ hr {
 }
 
 .result {
-    border-style: solid;
-    width: 350px;
-    padding: 20px 50px 20px 50px;
     margin: 5px 10px 5px 10px;
     display: inline-block;
     vertical-align: top;
@@ -52,7 +49,12 @@ hr {
 
 .calc {
     border-style: solid;
-    width: 400px;
-    padding: 200px 200px 200px 200px;
+    width: 600px;
+    height: calc(50vh);
+    padding: 5px 5px 5px 5px;
     margin: 5px 10px 5px 10px;
+}
+
+.inline-selector {
+    display: inline;
 }
