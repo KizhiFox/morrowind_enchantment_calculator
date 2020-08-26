@@ -1,0 +1,209 @@
+!gem petty
+!v 5
+Mudcrab|Грязекраб
+Old Blue Fin|Старик-Синий плавник|unique
+!v 8
+Kwama Worker|Рабочий квама
+!v 10
+Wild Durzog (weaker)|Дикий дурзог (слабый)|tr
+Diseased Durzog|Заражённый дурзог|tr
+Rat|Крыса
+Small Slaughterfish|Малая рыба-убийца
+Verminous Fabricant|Мерзкий фабрикант|tr
+Nix-Hound|Никс-гончая
+Creeper|Ползун|unique
+Rollie the Guar|Ролли Гуар|unique
+Slaughterfish|Рыба-убийца
+Bull Netch|Самец нетча
+Scrib|Скриб
+Crippled Skeleton|Хрупкий скелет
+Ettiene of Glenmoril Wyrd|Эттьен Гленморильского Вирда|bm|unique
+!v 15
+untranslated|Фуражир квама
+!v 20
+untranslated|Алит
+untranslated|Воин квама
+untranslated|Гуар
+untranslated|Кагути
+untranslated|Моровый скриб
+untranslated|Скальный наездник
+!v 25
+untranslated|Заражённый алит
+untranslated|Моровый алит
+!v 30
+untranslated|Барилзар|tr|unique
+untranslated|Моровый воин квама
+untranslated|Скелет
+untranslated|Скелет-воин
+untranslated|Скелет-лучник
+untranslated|Шалк
+!gem lesser
+!v 50
+untranslated|Алчущий
+untranslated|Белый гуар|unique
+untranslated|Волк|bm
+untranslated|Грозный грахл|bm|unique
+untranslated|Дикий дурзог|tr
+untranslated|Костяной волк|bm
+untranslated|Матка квама
+untranslated|Паук-центурион
+untranslated|Пловец|bm|unique
+untranslated|Рьеклинг|bm
+untranslated|Самец нетча
+untranslated|Снежный медведь|bm
+!v 60
+untranslated|Гигантский самец нетча
+!gem common
+!v 65
+untranslated|Мелкий ходячий труп
+!v 70
+untranslated|Титан огрим
+!v 75
+untranslated|Вождь-дреуг
+untranslated|Дреуг
+untranslated|Крупный ходячий труп
+untranslated|Самка нетча
+untranslated|Ходячий труп
+!v 80
+untranslated|Хоркер|bm
+!v 100
+untranslated|Аспект Коварства Хирсина|bm|unique
+untranslated|Аспект Силы Хирсина|bm|unique
+untranslated|Аспект Скорости Хирсина|bm|unique
+untranslated|Боевой дурзог|tr
+untranslated|Гоблин|tr
+untranslated|Грахл-смотритель|bm|unique
+untranslated|Дремора
+untranslated|Дух предков
+untranslated|Карстааг|bm|unique
+untranslated|Каэнлорнский волк|bm|unique
+untranslated|Кланфир
+untranslated|Костяной лорд
+untranslated|Ловчий корпруса
+untranslated|Медведь гризли|bm
+untranslated|Пепельный зомби
+untranslated|Призрак Галоса Хелерана|unique
+untranslated|Призрак Сул Сенипула|unique
+untranslated|Раб пепла
+untranslated|Рьеклинг|bm
+untranslated|Скамп
+!v 105
+untranslated|Огненный атронах
+!v 120
+untranslated|Гоблин-пехотинец|tr
+!gem greater
+!v 138
+untranslated|Ледяной атронах
+!v 150
+untranslated|Грозовой атронах
+untranslated|Клыкастый щетиноспин|bm
+untranslated|Рьеклинг-наездник|bm
+!v 160
+untranslated|Калека корпруса
+untranslated|Номег Гвай|unique
+!v 165
+untranslated|Гигантский фабрикант|tr
+untranslated|Несовершенство|tr|unique
+untranslated|Огрим
+!gem grand
+!v 195
+untranslated|Даэдрот
+!v 200
+untranslated|Бельдох Неумирающий|unique
+untranslated|Большой скелет-непобедимый|bm
+untranslated|Драугр|bm
+untranslated|Большой дух предков|tr
+untranslated|Гоблин-дрессировщик|tr
+untranslated|Гоблин-здоровяк|tr
+untranslated|Дремора-лорд
+untranslated|Гном-призрак
+untranslated|Радак Стунгнтумц|tr|unique
+untranslated|Скелет-берсеркер|bm
+untranslated|Скелет-капитан пиратов|bm|unique
+untranslated|Скелет-пират|bm|unique
+untranslated|Скелет-чемпион
+untranslated|Спаривающийся кагути|unique
+untranslated|Ужасный инеевый атронах|bm
+untranslated|Ягрум Багарн|unique
+!v 250
+untranslated|Алчущий
+untranslated|Пепельный упырь
+untranslated|Удурфрукт|bm|unique
+!v 280
+untranslated|Дагот Велос|unique
+untranslated|Дагот Ганел|unique
+untranslated|Дагот Гарес|unique
+untranslated|Дагот Мулин|unique
+untranslated|Призрак Варинера|tr|unique
+untranslated|Канит Ашурнисаммис|unique
+untranslated|Мансиламат Вабдас (призрак)|unique
+untranslated|Призрак Привратного|unique
+untranslated|Страж предков
+!v 300
+untranslated|Гоблин-офицер|tr
+untranslated|Драугр|bm
+untranslated|Дагот Аладус|unique
+untranslated|Дагот Балер|unique
+untranslated|Дагот Велос|unique
+untranslated|Дагот Гальмис|unique
+untranslated|Дагот Гирер|unique
+untranslated|Дагот Дайнил|unique
+untranslated|Дагот Дельнус|unique
+untranslated|Дагот Дравен|unique
+untranslated|Дагот Дральс|unique
+untranslated|Дагот Иенас|unique
+untranslated|Дагот Мендрас|unique
+untranslated|Дагот Мулис|unique
+untranslated|Дагот Мутэс|unique
+untranslated|Дагот Нильгор|unique
+untranslated|Дагот Ралас|unique
+untranslated|Дагот Солер|unique
+untranslated|Дагот Фалс|unique
+untranslated|Дагот Фервас|unique
+untranslated|Дагот Фовон|unique
+untranslated|Дагот Элам|unique
+untranslated|Каш-Ти Друр|tr|unique
+untranslated|Крылатый сумрак
+untranslated|Лич|tr
+untranslated|Нечестивый служитель|tr
+untranslated|Скелет-боевой маг|unique
+untranslated|Смертоносный грахл|bm|unique
+!v 330
+untranslated|Дагот Ванер|unique
+untranslated|Дагот Гарел|unique
+untranslated|Дагот Горал|unique
+untranslated|Дагот Ирвин|unique
+untranslated|Дагот Малан|unique
+untranslated|Дагот Молос|unique
+untranslated|Дагот Релер|unique
+untranslated|Дагот Рэтхер|unique
+untranslated|Дагот Танис|unique
+untranslated|Дагот Увил|unique
+untranslated|Дагот Улен|unique
+untranslated|Дагот Фельмис|unique
+untranslated|Дагот Фандрил|unique
+untranslated|Дагот Хлевул|unique
+!v 340
+untranslated|Дагот Утол|unique
+!v 350
+untranslated|Мента На|unique
+untranslated|Молаг Грунда|unique
+untranslated|Предводитель Дургок|tr|unique
+untranslated|Предводитель Курог|tr|unique
+untranslated|Спригган|bm
+!v 360
+untranslated|Дагот Арайнис|unique
+untranslated|Дагот Вемин|unique
+untranslated|Дагот Гильвот|unique
+untranslated|Дагот Одрос|unique
+untranslated|Дагот Турейнул|unique
+untranslated|Дагот Эндус|unique
+!v 400
+untranslated|Дарк Мезальф|unique
+untranslated|Золотой святой
+untranslated|Поднявшийся спящий
+!gem azura
+!v 1000
+untranslated|Вивек|unique
+!v 1500
+untranslated|Альмалексия|tr|unique
